@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Laiba Husnain<br><br>Frontend Web Developer | Computer Engineering Technology Student<br><br>Frontend Focus<br>- Building web interfaces for real-time systems<br>- Displaying live data in a clear, usable way<br>
+Hi, I'm Laiba Husnain<br><br>Frontend Web Developer | Computer Engineering Technologist<br><br>Frontend Focus<br>- Building web interfaces for real-time systems<br>- Displaying live data in a clear, usable way<br>
 
 
 ## 🌐 Socials:
